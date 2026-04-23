@@ -1,5 +1,5 @@
 # My-first-programme
 print
-``java
+```java
 println("Hello,GitHub")
 ```
